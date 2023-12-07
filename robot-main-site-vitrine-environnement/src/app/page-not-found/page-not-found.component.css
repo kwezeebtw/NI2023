@@ -1,0 +1,14 @@
+  
+  .centered {
+    margin-left: auto;
+    margin-top: 15%;
+    width: 50em;
+    margin-right: auto;
+  }
+
+ .grid-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px; 
+    padding: 20px;
+  }
